@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a href="https://axonz.me">axonz.me</a></h1>
+<h1><a href="https://axonz.me" style="color: purple;">axonz.me</a></h1>
 
 ![skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,ae,cs,pr,discordjs,nodejs,dotnet,eclipse,express,github,idea,java,lua,raspberrypi,tailwind,bootstrap,figma,apple,ubuntu,robloxstudio.png)
 </div>
