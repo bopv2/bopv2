@@ -1,7 +1,7 @@
 <div align="center">
 <h1><a href="https://axonz.me">axonz.me</a></h1>
 
-![skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,ae,cs,pr,discordjs,dotnet,eclipse,express,github,idea,java,lua,rasberrypi,apple,ubuntu,robloxstudio.png)
+![skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,ae,cs,pr,discordjs,nodejs,dotnet,eclipse,express,github,idea,java,lua,raspberrypi,tailwind,bootstrap,figma,apple,ubuntu,robloxstudio.png)
 </div>
 <li>
   Frontend Developer (HTML,CSS,JS)
@@ -16,5 +16,5 @@
   Windows, Hackintosh (MacOS) & Ubuntu (Debian) user.
 </li>
 <li>
-  Graphic Designer & Editor (Phtoshop, Illustrator, After Effects, Premiere)
+  Graphic Designer & Editor (Phtoshop, Illustrator, After Effects, Premiere, Figma)
 </li>
